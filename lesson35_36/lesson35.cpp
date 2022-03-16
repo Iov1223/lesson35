@@ -58,6 +58,7 @@ int main() {
 	showArray(a1, 5);
 	cout << "Массив double:\n";
 	showArray(a2, 4);
+	showArray(a1, 5);
 
 
 	// Вызов шаблонной функции
